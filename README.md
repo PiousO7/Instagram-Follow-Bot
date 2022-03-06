@@ -1,5 +1,3 @@
-# Instagram-Follow-Unfollow-Bot
-This bot helps you get free followers by following all the people from an account and then unfollow them hoping they follow you back.
-this is just a test program I made for practicing Selenium Webdriver
-There might be errors and I havent looked into
-again not a finished bot
+# Instagram-Follow-Bot
+This bot helps you get free followers by following all the people from an account and then unfollow them when they follow back
+Its a quick and easy way to get free followers that are real and not some spam accounts
